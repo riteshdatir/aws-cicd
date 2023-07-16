@@ -33,7 +33,7 @@
   
    <style>
 h3{
-       color : pink;
+       color : Red;
 }
   </style>	   
 		
