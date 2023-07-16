@@ -16,7 +16,7 @@
 			 <li>Kharadi</li>
 			 <li>Sabka-somu</li>
 			 </ul>
-			 <title>Main attarction at night after utsav, Panvel</title>
+			 <h2>Main attarction at night after utsav, Panvel</h2>
 			  <style>
 	  h2{
 		  color :purple;
