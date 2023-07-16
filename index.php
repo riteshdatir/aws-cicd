@@ -5,13 +5,26 @@
 		  color :red;
 	  }
 	  </style>
-	        <title> Welcome to aws cicd</title>
+	        <title> Gatari utsav </title>
 			</head>
 			<body>
-			<h1>Hello Radhe Krishna...!</h1>
+			<h1>People invited to Gatari utsav</h1>
 			<ul>
 			 <li>Ritesh</li>
 			 <li>Ajinkya</li>
 			 <li>Bandgoal</li>
+			 <li>Kharadi</li>
+			 <li>Sabka-somu</li>
+			 </ul>
+			 <title>Main attarction at night after utsav, Panvel</title>
+			  <style>
+	  h2{
+		  color :purple;
+	  }
+	   </style>
+			 
+			 
+		
+			 
 			</body>
 			</html>
